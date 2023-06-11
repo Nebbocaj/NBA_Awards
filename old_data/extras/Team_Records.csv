@@ -1,0 +1,1406 @@
+﻿Season,Lg,Team,W,L,W/L%
+2016-17,NBA,Boston Celtics,53,29,0.646
+2015-16,NBA,Boston Celtics,48,34,0.585
+2014-15,NBA,Boston Celtics,40,42,0.488
+2013-14,NBA,Boston Celtics,25,57,0.305
+2012-13,NBA,Boston Celtics,41,40,0.506
+2011-12,NBA,Boston Celtics,39,27,0.591
+2010-11,NBA,Boston Celtics,56,26,0.683
+2009-10,NBA,Boston Celtics,50,32,0.61
+2008-09,NBA,Boston Celtics,62,20,0.756
+2007-08,NBA,Boston Celtics,66,16,0.805
+2006-07,NBA,Boston Celtics,24,58,0.293
+2005-06,NBA,Boston Celtics,33,49,0.402
+2004-05,NBA,Boston Celtics,45,37,0.549
+2003-04,NBA,Boston Celtics,36,46,0.439
+2002-03,NBA,Boston Celtics,44,38,0.537
+2001-02,NBA,Boston Celtics,49,33,0.598
+2000-01,NBA,Boston Celtics,36,46,0.439
+1999-00,NBA,Boston Celtics,35,47,0.427
+1998-99,NBA,Boston Celtics,19,31,0.38
+1997-98,NBA,Boston Celtics,36,46,0.439
+1996-97,NBA,Boston Celtics,15,67,0.183
+1995-96,NBA,Boston Celtics,33,49,0.402
+1994-95,NBA,Boston Celtics,35,47,0.427
+1993-94,NBA,Boston Celtics,32,50,0.39
+1992-93,NBA,Boston Celtics,48,34,0.585
+1991-92,NBA,Boston Celtics,51,31,0.622
+1990-91,NBA,Boston Celtics,56,26,0.683
+1989-90,NBA,Boston Celtics,52,30,0.634
+1988-89,NBA,Boston Celtics,42,40,0.512
+1987-88,NBA,Boston Celtics,57,25,0.695
+1986-87,NBA,Boston Celtics,59,23,0.72
+1985-86,NBA,Boston Celtics,67,15,0.817
+1984-85,NBA,Boston Celtics,63,19,0.768
+1983-84,NBA,Boston Celtics,62,20,0.756
+1982-83,NBA,Boston Celtics,56,26,0.683
+1981-82,NBA,Boston Celtics,63,19,0.768
+1980-81,NBA,Boston Celtics,62,20,0.756
+1979-80,NBA,Boston Celtics,61,21,0.744
+1978-79,NBA,Boston Celtics,29,53,0.354
+1977-78,NBA,Boston Celtics,32,50,0.39
+1976-77,NBA,Boston Celtics,44,38,0.537
+1975-76,NBA,Boston Celtics,54,28,0.659
+1974-75,NBA,Boston Celtics,60,22,0.732
+1973-74,NBA,Boston Celtics,56,26,0.683
+1972-73,NBA,Boston Celtics,68,14,0.829
+1971-72,NBA,Boston Celtics,56,26,0.683
+1970-71,NBA,Boston Celtics,44,38,0.537
+1969-70,NBA,Boston Celtics,34,48,0.415
+1968-69,NBA,Boston Celtics,48,34,0.585
+1967-68,NBA,Boston Celtics,54,28,0.659
+1966-67,NBA,Boston Celtics,60,21,0.741
+1965-66,NBA,Boston Celtics,54,26,0.675
+1964-65,NBA,Boston Celtics,62,18,0.775
+1963-64,NBA,Boston Celtics,59,21,0.738
+1962-63,NBA,Boston Celtics,58,22,0.725
+1961-62,NBA,Boston Celtics,60,20,0.75
+1960-61,NBA,Boston Celtics,57,22,0.722
+1959-60,NBA,Boston Celtics,59,16,0.787
+1958-59,NBA,Boston Celtics,52,20,0.722
+1957-58,NBA,Boston Celtics,49,23,0.681
+1956-57,NBA,Boston Celtics,44,28,0.611
+1955-56,NBA,Boston Celtics,39,33,0.542
+1954-55,NBA,Boston Celtics,36,36,0.5
+1953-54,NBA,Boston Celtics,42,30,0.583
+1952-53,NBA,Boston Celtics,46,25,0.648
+1951-52,NBA,Boston Celtics,39,27,0.591
+1950-51,NBA,Boston Celtics,39,30,0.565
+1949-50,NBA,Boston Celtics,22,46,0.324
+2016-17,NBA,Toronto Raptors,51,31,0.622
+2015-16,NBA,Toronto Raptors,56,26,0.683
+2014-15,NBA,Toronto Raptors,49,33,0.598
+2013-14,NBA,Toronto Raptors,48,34,0.585
+2012-13,NBA,Toronto Raptors,34,48,0.415
+2011-12,NBA,Toronto Raptors,23,43,0.348
+2010-11,NBA,Toronto Raptors,22,60,0.268
+2009-10,NBA,Toronto Raptors,40,42,0.488
+2008-09,NBA,Toronto Raptors,33,49,0.402
+2007-08,NBA,Toronto Raptors,41,41,0.5
+2006-07,NBA,Toronto Raptors,47,35,0.573
+2005-06,NBA,Toronto Raptors,27,55,0.329
+2004-05,NBA,Toronto Raptors,33,49,0.402
+2003-04,NBA,Toronto Raptors,33,49,0.402
+2002-03,NBA,Toronto Raptors,24,58,0.293
+2001-02,NBA,Toronto Raptors,42,40,0.512
+2000-01,NBA,Toronto Raptors,47,35,0.573
+1999-00,NBA,Toronto Raptors,45,37,0.549
+1998-99,NBA,Toronto Raptors,23,27,0.46
+1997-98,NBA,Toronto Raptors,16,66,0.195
+1996-97,NBA,Toronto Raptors,30,52,0.366
+1995-96,NBA,Toronto Raptors,21,61,0.256
+2016-17,NBA,New York Knicks,31,51,0.378
+2015-16,NBA,New York Knicks,32,50,0.39
+2014-15,NBA,New York Knicks,17,65,0.207
+2013-14,NBA,New York Knicks,37,45,0.451
+2012-13,NBA,New York Knicks,54,28,0.659
+2011-12,NBA,New York Knicks,36,30,0.545
+2010-11,NBA,New York Knicks,42,40,0.512
+2009-10,NBA,New York Knicks,29,53,0.354
+2008-09,NBA,New York Knicks,32,50,0.39
+2007-08,NBA,New York Knicks,23,59,0.28
+2006-07,NBA,New York Knicks,33,49,0.402
+2005-06,NBA,New York Knicks,23,59,0.28
+2004-05,NBA,New York Knicks,33,49,0.402
+2003-04,NBA,New York Knicks,39,43,0.476
+2002-03,NBA,New York Knicks,37,45,0.451
+2001-02,NBA,New York Knicks,30,52,0.366
+2000-01,NBA,New York Knicks,48,34,0.585
+1999-00,NBA,New York Knicks,50,32,0.61
+1998-99,NBA,New York Knicks,27,23,0.54
+1997-98,NBA,New York Knicks,43,39,0.524
+1996-97,NBA,New York Knicks,57,25,0.695
+1995-96,NBA,New York Knicks,47,35,0.573
+1994-95,NBA,New York Knicks,55,27,0.671
+1993-94,NBA,New York Knicks,57,25,0.695
+1992-93,NBA,New York Knicks,60,22,0.732
+1991-92,NBA,New York Knicks,51,31,0.622
+1990-91,NBA,New York Knicks,39,43,0.476
+1989-90,NBA,New York Knicks,45,37,0.549
+1988-89,NBA,New York Knicks,52,30,0.634
+1987-88,NBA,New York Knicks,38,44,0.463
+1986-87,NBA,New York Knicks,24,58,0.293
+1985-86,NBA,New York Knicks,23,59,0.28
+1984-85,NBA,New York Knicks,24,58,0.293
+1983-84,NBA,New York Knicks,47,35,0.573
+1982-83,NBA,New York Knicks,44,38,0.537
+1981-82,NBA,New York Knicks,33,49,0.402
+1980-81,NBA,New York Knicks,50,32,0.61
+1979-80,NBA,New York Knicks,39,43,0.476
+1978-79,NBA,New York Knicks,31,51,0.378
+1977-78,NBA,New York Knicks,43,39,0.524
+1976-77,NBA,New York Knicks,40,42,0.488
+1975-76,NBA,New York Knicks,38,44,0.463
+1974-75,NBA,New York Knicks,40,42,0.488
+1973-74,NBA,New York Knicks,49,33,0.598
+1972-73,NBA,New York Knicks,57,25,0.695
+1971-72,NBA,New York Knicks,48,34,0.585
+1970-71,NBA,New York Knicks,52,30,0.634
+1969-70,NBA,New York Knicks,60,22,0.732
+1968-69,NBA,New York Knicks,54,28,0.659
+1967-68,NBA,New York Knicks,43,39,0.524
+1966-67,NBA,New York Knicks,36,45,0.444
+1965-66,NBA,New York Knicks,30,50,0.375
+1964-65,NBA,New York Knicks,31,49,0.388
+1963-64,NBA,New York Knicks,22,58,0.275
+1962-63,NBA,New York Knicks,21,59,0.263
+1961-62,NBA,New York Knicks,29,51,0.363
+1960-61,NBA,New York Knicks,21,58,0.266
+1959-60,NBA,New York Knicks,27,48,0.36
+1958-59,NBA,New York Knicks,40,32,0.556
+1957-58,NBA,New York Knicks,35,37,0.486
+1956-57,NBA,New York Knicks,36,36,0.5
+1955-56,NBA,New York Knicks,35,37,0.486
+1954-55,NBA,New York Knicks,38,34,0.528
+1953-54,NBA,New York Knicks,44,28,0.611
+1952-53,NBA,New York Knicks,47,23,0.671
+1951-52,NBA,New York Knicks,37,29,0.561
+1950-51,NBA,New York Knicks,36,30,0.545
+1949-50,NBA,New York Knicks,40,28,0.588
+2016-17,NBA,Philadelphia 76ers,28,54,0.341
+2015-16,NBA,Philadelphia 76ers,10,72,0.122
+2014-15,NBA,Philadelphia 76ers,18,64,0.22
+2013-14,NBA,Philadelphia 76ers,19,63,0.232
+2012-13,NBA,Philadelphia 76ers,34,48,0.415
+2011-12,NBA,Philadelphia 76ers,35,31,0.53
+2010-11,NBA,Philadelphia 76ers,41,41,0.5
+2009-10,NBA,Philadelphia 76ers,27,55,0.329
+2008-09,NBA,Philadelphia 76ers,41,41,0.5
+2007-08,NBA,Philadelphia 76ers,40,42,0.488
+2006-07,NBA,Philadelphia 76ers,35,47,0.427
+2005-06,NBA,Philadelphia 76ers,38,44,0.463
+2004-05,NBA,Philadelphia 76ers,43,39,0.524
+2003-04,NBA,Philadelphia 76ers,33,49,0.402
+2002-03,NBA,Philadelphia 76ers,48,34,0.585
+2001-02,NBA,Philadelphia 76ers,43,39,0.524
+2000-01,NBA,Philadelphia 76ers,56,26,0.683
+1999-00,NBA,Philadelphia 76ers,49,33,0.598
+1998-99,NBA,Philadelphia 76ers,28,22,0.56
+1997-98,NBA,Philadelphia 76ers,31,51,0.378
+1996-97,NBA,Philadelphia 76ers,22,60,0.268
+1995-96,NBA,Philadelphia 76ers,18,64,0.22
+1994-95,NBA,Philadelphia 76ers,24,58,0.293
+1993-94,NBA,Philadelphia 76ers,25,57,0.305
+1992-93,NBA,Philadelphia 76ers,26,56,0.317
+1991-92,NBA,Philadelphia 76ers,35,47,0.427
+1990-91,NBA,Philadelphia 76ers,44,38,0.537
+1989-90,NBA,Philadelphia 76ers,53,29,0.646
+1988-89,NBA,Philadelphia 76ers,46,36,0.561
+1987-88,NBA,Philadelphia 76ers,36,46,0.439
+1986-87,NBA,Philadelphia 76ers,45,37,0.549
+1985-86,NBA,Philadelphia 76ers,54,28,0.659
+1984-85,NBA,Philadelphia 76ers,58,24,0.707
+1983-84,NBA,Philadelphia 76ers,52,30,0.634
+1982-83,NBA,Philadelphia 76ers,65,17,0.793
+1981-82,NBA,Philadelphia 76ers,58,24,0.707
+1980-81,NBA,Philadelphia 76ers,62,20,0.756
+1979-80,NBA,Philadelphia 76ers,59,23,0.72
+1978-79,NBA,Philadelphia 76ers,47,35,0.573
+1977-78,NBA,Philadelphia 76ers,55,27,0.671
+1976-77,NBA,Philadelphia 76ers,50,32,0.61
+1975-76,NBA,Philadelphia 76ers,46,36,0.561
+1974-75,NBA,Philadelphia 76ers,34,48,0.415
+1973-74,NBA,Philadelphia 76ers,25,57,0.305
+1972-73,NBA,Philadelphia 76ers,9,73,0.11
+1971-72,NBA,Philadelphia 76ers,30,52,0.366
+1970-71,NBA,Philadelphia 76ers,47,35,0.573
+1969-70,NBA,Philadelphia 76ers,42,40,0.512
+1968-69,NBA,Philadelphia 76ers,55,27,0.671
+1967-68,NBA,Philadelphia 76ers,62,20,0.756
+1966-67,NBA,Philadelphia 76ers,68,13,0.84
+1965-66,NBA,Philadelphia 76ers,55,25,0.688
+1964-65,NBA,Philadelphia 76ers,40,40,0.5
+1963-64,NBA,Philadelphia 76ers,34,46,0.425
+1962-63,NBA,Syracuse Nationals,48,32,0.6
+1961-62,NBA,Syracuse Nationals,41,39,0.513
+1960-61,NBA,Syracuse Nationals,38,41,0.481
+1959-60,NBA,Syracuse Nationals,45,30,0.6
+1958-59,NBA,Syracuse Nationals,35,37,0.486
+1957-58,NBA,Syracuse Nationals,41,31,0.569
+1956-57,NBA,Syracuse Nationals,38,34,0.528
+1955-56,NBA,Syracuse Nationals,35,37,0.486
+1954-55,NBA,Syracuse Nationals,43,29,0.597
+1953-54,NBA,Syracuse Nationals,42,30,0.583
+1952-53,NBA,Syracuse Nationals,47,24,0.662
+1951-52,NBA,Syracuse Nationals,40,26,0.606
+1950-51,NBA,Syracuse Nationals,32,34,0.485
+1949-50,NBA,Syracuse Nationals,51,13,0.797
+2016-17,NBA,Brooklyn Nets,20,62,0.244
+2015-16,NBA,Brooklyn Nets,21,61,0.256
+2014-15,NBA,Brooklyn Nets,38,44,0.463
+2013-14,NBA,Brooklyn Nets,44,38,0.537
+2012-13,NBA,Brooklyn Nets,49,33,0.598
+2011-12,NBA,New Jersey Nets,22,44,0.333
+2010-11,NBA,New Jersey Nets,24,58,0.293
+2009-10,NBA,New Jersey Nets,12,70,0.146
+2008-09,NBA,New Jersey Nets,34,48,0.415
+2007-08,NBA,New Jersey Nets,34,48,0.415
+2006-07,NBA,New Jersey Nets,41,41,0.5
+2005-06,NBA,New Jersey Nets,49,33,0.598
+2004-05,NBA,New Jersey Nets,42,40,0.512
+2003-04,NBA,New Jersey Nets,47,35,0.573
+2002-03,NBA,New Jersey Nets,49,33,0.598
+2001-02,NBA,New Jersey Nets,52,30,0.634
+2000-01,NBA,New Jersey Nets,26,56,0.317
+1999-00,NBA,New Jersey Nets,31,51,0.378
+1998-99,NBA,New Jersey Nets,16,34,0.32
+1997-98,NBA,New Jersey Nets,43,39,0.524
+1996-97,NBA,New Jersey Nets,26,56,0.317
+1995-96,NBA,New Jersey Nets,30,52,0.366
+1994-95,NBA,New Jersey Nets,30,52,0.366
+1993-94,NBA,New Jersey Nets,45,37,0.549
+1992-93,NBA,New Jersey Nets,43,39,0.524
+1991-92,NBA,New Jersey Nets,40,42,0.488
+1990-91,NBA,New Jersey Nets,26,56,0.317
+1989-90,NBA,New Jersey Nets,17,65,0.207
+1988-89,NBA,New Jersey Nets,26,56,0.317
+1987-88,NBA,New Jersey Nets,19,63,0.232
+1986-87,NBA,New Jersey Nets,24,58,0.293
+1985-86,NBA,New Jersey Nets,39,43,0.476
+1984-85,NBA,New Jersey Nets,42,40,0.512
+1983-84,NBA,New Jersey Nets,45,37,0.549
+1982-83,NBA,New Jersey Nets,49,33,0.598
+1981-82,NBA,New Jersey Nets,44,38,0.537
+1980-81,NBA,New Jersey Nets,24,58,0.293
+1979-80,NBA,New Jersey Nets,34,48,0.415
+1978-79,NBA,New Jersey Nets,37,45,0.451
+1977-78,NBA,New Jersey Nets,24,58,0.293
+1976-77,NBA,New York Nets,22,60,0.268
+2016-17,NBA,Minnesota Timberwolves,31,51,0.378
+2015-16,NBA,Minnesota Timberwolves,29,53,0.354
+2014-15,NBA,Minnesota Timberwolves,16,66,0.195
+2013-14,NBA,Minnesota Timberwolves,40,42,0.488
+2012-13,NBA,Minnesota Timberwolves,31,51,0.378
+2011-12,NBA,Minnesota Timberwolves,26,40,0.394
+2010-11,NBA,Minnesota Timberwolves,17,65,0.207
+2009-10,NBA,Minnesota Timberwolves,15,67,0.183
+2008-09,NBA,Minnesota Timberwolves,24,58,0.293
+2007-08,NBA,Minnesota Timberwolves,22,60,0.268
+2006-07,NBA,Minnesota Timberwolves,32,50,0.39
+2005-06,NBA,Minnesota Timberwolves,33,49,0.402
+2004-05,NBA,Minnesota Timberwolves,44,38,0.537
+2003-04,NBA,Minnesota Timberwolves,58,24,0.707
+2002-03,NBA,Minnesota Timberwolves,51,31,0.622
+2001-02,NBA,Minnesota Timberwolves,50,32,0.61
+2000-01,NBA,Minnesota Timberwolves,47,35,0.573
+1999-00,NBA,Minnesota Timberwolves,50,32,0.61
+1998-99,NBA,Minnesota Timberwolves,25,25,0.5
+1997-98,NBA,Minnesota Timberwolves,45,37,0.549
+1996-97,NBA,Minnesota Timberwolves,40,42,0.488
+1995-96,NBA,Minnesota Timberwolves,26,56,0.317
+1994-95,NBA,Minnesota Timberwolves,21,61,0.256
+1993-94,NBA,Minnesota Timberwolves,20,62,0.244
+1992-93,NBA,Minnesota Timberwolves,19,63,0.232
+1991-92,NBA,Minnesota Timberwolves,15,67,0.183
+1990-91,NBA,Minnesota Timberwolves,29,53,0.354
+1989-90,NBA,Minnesota Timberwolves,22,60,0.268
+2016-17,NBA,Oklahoma City Thunder,47,35,0.573
+2015-16,NBA,Oklahoma City Thunder,55,27,0.671
+2014-15,NBA,Oklahoma City Thunder,45,37,0.549
+2013-14,NBA,Oklahoma City Thunder,59,23,0.72
+2012-13,NBA,Oklahoma City Thunder,60,22,0.732
+2011-12,NBA,Oklahoma City Thunder,47,19,0.712
+2010-11,NBA,Oklahoma City Thunder,55,27,0.671
+2009-10,NBA,Oklahoma City Thunder,50,32,0.61
+2008-09,NBA,Oklahoma City Thunder,23,59,0.28
+2007-08,NBA,Seattle SuperSonics,20,62,0.244
+2006-07,NBA,Seattle SuperSonics,31,51,0.378
+2005-06,NBA,Seattle SuperSonics,35,47,0.427
+2004-05,NBA,Seattle SuperSonics,52,30,0.634
+2003-04,NBA,Seattle SuperSonics,37,45,0.451
+2002-03,NBA,Seattle SuperSonics,40,42,0.488
+2001-02,NBA,Seattle SuperSonics,45,37,0.549
+2000-01,NBA,Seattle SuperSonics,44,38,0.537
+1999-00,NBA,Seattle SuperSonics,45,37,0.549
+1998-99,NBA,Seattle SuperSonics,25,25,0.5
+1997-98,NBA,Seattle SuperSonics,61,21,0.744
+1996-97,NBA,Seattle SuperSonics,57,25,0.695
+1995-96,NBA,Seattle SuperSonics,64,18,0.78
+1994-95,NBA,Seattle SuperSonics,57,25,0.695
+1993-94,NBA,Seattle SuperSonics,63,19,0.768
+1992-93,NBA,Seattle SuperSonics,55,27,0.671
+1991-92,NBA,Seattle SuperSonics,47,35,0.573
+1990-91,NBA,Seattle SuperSonics,41,41,0.5
+1989-90,NBA,Seattle SuperSonics,41,41,0.5
+1988-89,NBA,Seattle SuperSonics,47,35,0.573
+1987-88,NBA,Seattle SuperSonics,44,38,0.537
+1986-87,NBA,Seattle SuperSonics,39,43,0.476
+1985-86,NBA,Seattle SuperSonics,31,51,0.378
+1984-85,NBA,Seattle SuperSonics,31,51,0.378
+1983-84,NBA,Seattle SuperSonics,42,40,0.512
+1982-83,NBA,Seattle SuperSonics,48,34,0.585
+1981-82,NBA,Seattle SuperSonics,52,30,0.634
+1980-81,NBA,Seattle SuperSonics,34,48,0.415
+1979-80,NBA,Seattle SuperSonics,56,26,0.683
+1978-79,NBA,Seattle SuperSonics,52,30,0.634
+1977-78,NBA,Seattle SuperSonics,47,35,0.573
+1976-77,NBA,Seattle SuperSonics,40,42,0.488
+1975-76,NBA,Seattle SuperSonics,43,39,0.524
+1974-75,NBA,Seattle SuperSonics,43,39,0.524
+1973-74,NBA,Seattle SuperSonics,36,46,0.439
+1972-73,NBA,Seattle SuperSonics,26,56,0.317
+1971-72,NBA,Seattle SuperSonics,47,35,0.573
+1970-71,NBA,Seattle SuperSonics,38,44,0.463
+1969-70,NBA,Seattle SuperSonics,36,46,0.439
+1968-69,NBA,Seattle SuperSonics,30,52,0.366
+1967-68,NBA,Seattle SuperSonics,23,59,0.28
+2016-17,NBA,Denver Nuggets,40,42,0.488
+2015-16,NBA,Denver Nuggets,33,49,0.402
+2014-15,NBA,Denver Nuggets,30,52,0.366
+2013-14,NBA,Denver Nuggets,36,46,0.439
+2012-13,NBA,Denver Nuggets,57,25,0.695
+2011-12,NBA,Denver Nuggets,38,28,0.576
+2010-11,NBA,Denver Nuggets,50,32,0.61
+2009-10,NBA,Denver Nuggets,53,29,0.646
+2008-09,NBA,Denver Nuggets,54,28,0.659
+2007-08,NBA,Denver Nuggets,50,32,0.61
+2006-07,NBA,Denver Nuggets,45,37,0.549
+2005-06,NBA,Denver Nuggets,44,38,0.537
+2004-05,NBA,Denver Nuggets,49,33,0.598
+2003-04,NBA,Denver Nuggets,43,39,0.524
+2002-03,NBA,Denver Nuggets,17,65,0.207
+2001-02,NBA,Denver Nuggets,27,55,0.329
+2000-01,NBA,Denver Nuggets,40,42,0.488
+1999-00,NBA,Denver Nuggets,35,47,0.427
+1998-99,NBA,Denver Nuggets,14,36,0.28
+1997-98,NBA,Denver Nuggets,11,71,0.134
+1996-97,NBA,Denver Nuggets,21,61,0.256
+1995-96,NBA,Denver Nuggets,35,47,0.427
+1994-95,NBA,Denver Nuggets,41,41,0.5
+1993-94,NBA,Denver Nuggets,42,40,0.512
+1992-93,NBA,Denver Nuggets,36,46,0.439
+1991-92,NBA,Denver Nuggets,24,58,0.293
+1990-91,NBA,Denver Nuggets,20,62,0.244
+1989-90,NBA,Denver Nuggets,43,39,0.524
+1988-89,NBA,Denver Nuggets,44,38,0.537
+1987-88,NBA,Denver Nuggets,54,28,0.659
+1986-87,NBA,Denver Nuggets,37,45,0.451
+1985-86,NBA,Denver Nuggets,47,35,0.573
+1984-85,NBA,Denver Nuggets,52,30,0.634
+1983-84,NBA,Denver Nuggets,38,44,0.463
+1982-83,NBA,Denver Nuggets,45,37,0.549
+1981-82,NBA,Denver Nuggets,46,36,0.561
+1980-81,NBA,Denver Nuggets,37,45,0.451
+1979-80,NBA,Denver Nuggets,30,52,0.366
+1978-79,NBA,Denver Nuggets,47,35,0.573
+1977-78,NBA,Denver Nuggets,48,34,0.585
+1976-77,NBA,Denver Nuggets,50,32,0.61
+2016-17,NBA,Portland Trail Blazers,41,41,0.5
+2015-16,NBA,Portland Trail Blazers,44,38,0.537
+2014-15,NBA,Portland Trail Blazers,51,31,0.622
+2013-14,NBA,Portland Trail Blazers,54,28,0.659
+2012-13,NBA,Portland Trail Blazers,33,49,0.402
+2011-12,NBA,Portland Trail Blazers,28,38,0.424
+2010-11,NBA,Portland Trail Blazers,48,34,0.585
+2009-10,NBA,Portland Trail Blazers,50,32,0.61
+2008-09,NBA,Portland Trail Blazers,54,28,0.659
+2007-08,NBA,Portland Trail Blazers,41,41,0.5
+2006-07,NBA,Portland Trail Blazers,32,50,0.39
+2005-06,NBA,Portland Trail Blazers,21,61,0.256
+2004-05,NBA,Portland Trail Blazers,27,55,0.329
+2003-04,NBA,Portland Trail Blazers,41,41,0.5
+2002-03,NBA,Portland Trail Blazers,50,32,0.61
+2001-02,NBA,Portland Trail Blazers,49,33,0.598
+2000-01,NBA,Portland Trail Blazers,50,32,0.61
+1999-00,NBA,Portland Trail Blazers,59,23,0.72
+1998-99,NBA,Portland Trail Blazers,35,15,0.7
+1997-98,NBA,Portland Trail Blazers,46,36,0.561
+1996-97,NBA,Portland Trail Blazers,49,33,0.598
+1995-96,NBA,Portland Trail Blazers,44,38,0.537
+1994-95,NBA,Portland Trail Blazers,44,38,0.537
+1993-94,NBA,Portland Trail Blazers,47,35,0.573
+1992-93,NBA,Portland Trail Blazers,51,31,0.622
+1991-92,NBA,Portland Trail Blazers,57,25,0.695
+1990-91,NBA,Portland Trail Blazers,63,19,0.768
+1989-90,NBA,Portland Trail Blazers,59,23,0.72
+1988-89,NBA,Portland Trail Blazers,39,43,0.476
+1987-88,NBA,Portland Trail Blazers,53,29,0.646
+1986-87,NBA,Portland Trail Blazers,49,33,0.598
+1985-86,NBA,Portland Trail Blazers,40,42,0.488
+1984-85,NBA,Portland Trail Blazers,42,40,0.512
+1983-84,NBA,Portland Trail Blazers,48,34,0.585
+1982-83,NBA,Portland Trail Blazers,46,36,0.561
+1981-82,NBA,Portland Trail Blazers,42,40,0.512
+1980-81,NBA,Portland Trail Blazers,45,37,0.549
+1979-80,NBA,Portland Trail Blazers,38,44,0.463
+1978-79,NBA,Portland Trail Blazers,45,37,0.549
+1977-78,NBA,Portland Trail Blazers,58,24,0.707
+1976-77,NBA,Portland Trail Blazers,49,33,0.598
+1975-76,NBA,Portland Trail Blazers,37,45,0.451
+1974-75,NBA,Portland Trail Blazers,38,44,0.463
+1973-74,NBA,Portland Trail Blazers,27,55,0.329
+1972-73,NBA,Portland Trail Blazers,21,61,0.256
+1971-72,NBA,Portland Trail Blazers,18,64,0.22
+1970-71,NBA,Portland Trail Blazers,29,53,0.354
+2016-17,NBA,Utah Jazz,51,31,0.622
+2015-16,NBA,Utah Jazz,40,42,0.488
+2014-15,NBA,Utah Jazz,38,44,0.463
+2013-14,NBA,Utah Jazz,25,57,0.305
+2012-13,NBA,Utah Jazz,43,39,0.524
+2011-12,NBA,Utah Jazz,36,30,0.545
+2010-11,NBA,Utah Jazz,39,43,0.476
+2009-10,NBA,Utah Jazz,53,29,0.646
+2008-09,NBA,Utah Jazz,48,34,0.585
+2007-08,NBA,Utah Jazz,54,28,0.659
+2006-07,NBA,Utah Jazz,51,31,0.622
+2005-06,NBA,Utah Jazz,41,41,0.5
+2004-05,NBA,Utah Jazz,26,56,0.317
+2003-04,NBA,Utah Jazz,42,40,0.512
+2002-03,NBA,Utah Jazz,47,35,0.573
+2001-02,NBA,Utah Jazz,44,38,0.537
+2000-01,NBA,Utah Jazz,53,29,0.646
+1999-00,NBA,Utah Jazz,55,27,0.671
+1998-99,NBA,Utah Jazz,37,13,0.74
+1997-98,NBA,Utah Jazz,62,20,0.756
+1996-97,NBA,Utah Jazz,64,18,0.78
+1995-96,NBA,Utah Jazz,55,27,0.671
+1994-95,NBA,Utah Jazz,60,22,0.732
+1993-94,NBA,Utah Jazz,53,29,0.646
+1992-93,NBA,Utah Jazz,47,35,0.573
+1991-92,NBA,Utah Jazz,55,27,0.671
+1990-91,NBA,Utah Jazz,54,28,0.659
+1989-90,NBA,Utah Jazz,55,27,0.671
+1988-89,NBA,Utah Jazz,51,31,0.622
+1987-88,NBA,Utah Jazz,47,35,0.573
+1986-87,NBA,Utah Jazz,44,38,0.537
+1985-86,NBA,Utah Jazz,42,40,0.512
+1984-85,NBA,Utah Jazz,41,41,0.5
+1983-84,NBA,Utah Jazz,45,37,0.549
+1982-83,NBA,Utah Jazz,30,52,0.366
+1981-82,NBA,Utah Jazz,25,57,0.305
+1980-81,NBA,Utah Jazz,28,54,0.341
+1979-80,NBA,Utah Jazz,24,58,0.293
+1978-79,NBA,New Orleans Jazz,26,56,0.317
+1977-78,NBA,New Orleans Jazz,39,43,0.476
+1976-77,NBA,New Orleans Jazz,35,47,0.427
+1975-76,NBA,New Orleans Jazz,38,44,0.463
+1974-75,NBA,New Orleans Jazz,23,59,0.28
+2016-17,NBA,Cleveland Cavaliers,51,31,0.622
+2015-16,NBA,Cleveland Cavaliers,57,25,0.695
+2014-15,NBA,Cleveland Cavaliers,53,29,0.646
+2013-14,NBA,Cleveland Cavaliers,33,49,0.402
+2012-13,NBA,Cleveland Cavaliers,24,58,0.293
+2011-12,NBA,Cleveland Cavaliers,21,45,0.318
+2010-11,NBA,Cleveland Cavaliers,19,63,0.232
+2009-10,NBA,Cleveland Cavaliers,61,21,0.744
+2008-09,NBA,Cleveland Cavaliers,66,16,0.805
+2007-08,NBA,Cleveland Cavaliers,45,37,0.549
+2006-07,NBA,Cleveland Cavaliers,50,32,0.61
+2005-06,NBA,Cleveland Cavaliers,50,32,0.61
+2004-05,NBA,Cleveland Cavaliers,42,40,0.512
+2003-04,NBA,Cleveland Cavaliers,35,47,0.427
+2002-03,NBA,Cleveland Cavaliers,17,65,0.207
+2001-02,NBA,Cleveland Cavaliers,29,53,0.354
+2000-01,NBA,Cleveland Cavaliers,30,52,0.366
+1999-00,NBA,Cleveland Cavaliers,32,50,0.39
+1998-99,NBA,Cleveland Cavaliers,22,28,0.44
+1997-98,NBA,Cleveland Cavaliers,47,35,0.573
+1996-97,NBA,Cleveland Cavaliers,42,40,0.512
+1995-96,NBA,Cleveland Cavaliers,47,35,0.573
+1994-95,NBA,Cleveland Cavaliers,43,39,0.524
+1993-94,NBA,Cleveland Cavaliers,47,35,0.573
+1992-93,NBA,Cleveland Cavaliers,54,28,0.659
+1991-92,NBA,Cleveland Cavaliers,57,25,0.695
+1990-91,NBA,Cleveland Cavaliers,33,49,0.402
+1989-90,NBA,Cleveland Cavaliers,42,40,0.512
+1988-89,NBA,Cleveland Cavaliers,57,25,0.695
+1987-88,NBA,Cleveland Cavaliers,42,40,0.512
+1986-87,NBA,Cleveland Cavaliers,31,51,0.378
+1985-86,NBA,Cleveland Cavaliers,29,53,0.354
+1984-85,NBA,Cleveland Cavaliers,36,46,0.439
+1983-84,NBA,Cleveland Cavaliers,28,54,0.341
+1982-83,NBA,Cleveland Cavaliers,23,59,0.28
+1981-82,NBA,Cleveland Cavaliers,15,67,0.183
+1980-81,NBA,Cleveland Cavaliers,28,54,0.341
+1979-80,NBA,Cleveland Cavaliers,37,45,0.451
+1978-79,NBA,Cleveland Cavaliers,30,52,0.366
+1977-78,NBA,Cleveland Cavaliers,43,39,0.524
+1976-77,NBA,Cleveland Cavaliers,43,39,0.524
+1975-76,NBA,Cleveland Cavaliers,49,33,0.598
+1974-75,NBA,Cleveland Cavaliers,40,42,0.488
+1973-74,NBA,Cleveland Cavaliers,29,53,0.354
+1972-73,NBA,Cleveland Cavaliers,32,50,0.39
+1971-72,NBA,Cleveland Cavaliers,23,59,0.28
+1970-71,NBA,Cleveland Cavaliers,15,67,0.183
+2016-17,NBA,Detroit Pistons,37,45,0.451
+2015-16,NBA,Detroit Pistons,44,38,0.537
+2014-15,NBA,Detroit Pistons,32,50,0.39
+2013-14,NBA,Detroit Pistons,29,53,0.354
+2012-13,NBA,Detroit Pistons,29,53,0.354
+2011-12,NBA,Detroit Pistons,25,41,0.379
+2010-11,NBA,Detroit Pistons,30,52,0.366
+2009-10,NBA,Detroit Pistons,27,55,0.329
+2008-09,NBA,Detroit Pistons,39,43,0.476
+2007-08,NBA,Detroit Pistons,59,23,0.72
+2006-07,NBA,Detroit Pistons,53,29,0.646
+2005-06,NBA,Detroit Pistons,64,18,0.78
+2004-05,NBA,Detroit Pistons,54,28,0.659
+2003-04,NBA,Detroit Pistons,54,28,0.659
+2002-03,NBA,Detroit Pistons,50,32,0.61
+2001-02,NBA,Detroit Pistons,50,32,0.61
+2000-01,NBA,Detroit Pistons,32,50,0.39
+1999-00,NBA,Detroit Pistons,42,40,0.512
+1998-99,NBA,Detroit Pistons,29,21,0.58
+1997-98,NBA,Detroit Pistons,37,45,0.451
+1996-97,NBA,Detroit Pistons,54,28,0.659
+1995-96,NBA,Detroit Pistons,46,36,0.561
+1994-95,NBA,Detroit Pistons,28,54,0.341
+1993-94,NBA,Detroit Pistons,20,62,0.244
+1992-93,NBA,Detroit Pistons,40,42,0.488
+1991-92,NBA,Detroit Pistons,48,34,0.585
+1990-91,NBA,Detroit Pistons,50,32,0.61
+1989-90,NBA,Detroit Pistons,59,23,0.72
+1988-89,NBA,Detroit Pistons,63,19,0.768
+1987-88,NBA,Detroit Pistons,54,28,0.659
+1986-87,NBA,Detroit Pistons,52,30,0.634
+1985-86,NBA,Detroit Pistons,46,36,0.561
+1984-85,NBA,Detroit Pistons,46,36,0.561
+1983-84,NBA,Detroit Pistons,49,33,0.598
+1982-83,NBA,Detroit Pistons,37,45,0.451
+1981-82,NBA,Detroit Pistons,39,43,0.476
+1980-81,NBA,Detroit Pistons,21,61,0.256
+1979-80,NBA,Detroit Pistons,16,66,0.195
+1978-79,NBA,Detroit Pistons,30,52,0.366
+1977-78,NBA,Detroit Pistons,38,44,0.463
+1976-77,NBA,Detroit Pistons,44,38,0.537
+1975-76,NBA,Detroit Pistons,36,46,0.439
+1974-75,NBA,Detroit Pistons,40,42,0.488
+1973-74,NBA,Detroit Pistons,52,30,0.634
+1972-73,NBA,Detroit Pistons,40,42,0.488
+1971-72,NBA,Detroit Pistons,26,56,0.317
+1970-71,NBA,Detroit Pistons,45,37,0.549
+1969-70,NBA,Detroit Pistons,31,51,0.378
+1968-69,NBA,Detroit Pistons,32,50,0.39
+1967-68,NBA,Detroit Pistons,40,42,0.488
+1966-67,NBA,Detroit Pistons,30,51,0.37
+1965-66,NBA,Detroit Pistons,22,58,0.275
+1964-65,NBA,Detroit Pistons,31,49,0.388
+1963-64,NBA,Detroit Pistons,23,57,0.288
+1962-63,NBA,Detroit Pistons,34,46,0.425
+1961-62,NBA,Detroit Pistons,37,43,0.463
+1960-61,NBA,Detroit Pistons,34,45,0.43
+1959-60,NBA,Detroit Pistons,30,45,0.4
+1958-59,NBA,Detroit Pistons,28,44,0.389
+1957-58,NBA,Detroit Pistons,33,39,0.458
+1956-57,NBA,Fort Wayne Pistons,34,38,0.472
+1955-56,NBA,Fort Wayne Pistons,37,35,0.514
+1954-55,NBA,Fort Wayne Pistons,43,29,0.597
+1953-54,NBA,Fort Wayne Pistons,40,32,0.556
+1952-53,NBA,Fort Wayne Pistons,36,33,0.522
+1951-52,NBA,Fort Wayne Pistons,29,37,0.439
+1950-51,NBA,Fort Wayne Pistons,32,36,0.471
+1949-50,NBA,Fort Wayne Pistons,40,28,0.588
+2016-17,NBA,Milwaukee Bucks,42,40,0.512
+2015-16,NBA,Milwaukee Bucks,33,49,0.402
+2014-15,NBA,Milwaukee Bucks,41,41,0.5
+2013-14,NBA,Milwaukee Bucks,15,67,0.183
+2012-13,NBA,Milwaukee Bucks,38,44,0.463
+2011-12,NBA,Milwaukee Bucks,31,35,0.47
+2010-11,NBA,Milwaukee Bucks,35,47,0.427
+2009-10,NBA,Milwaukee Bucks,46,36,0.561
+2008-09,NBA,Milwaukee Bucks,34,48,0.415
+2007-08,NBA,Milwaukee Bucks,26,56,0.317
+2006-07,NBA,Milwaukee Bucks,28,54,0.341
+2005-06,NBA,Milwaukee Bucks,40,42,0.488
+2004-05,NBA,Milwaukee Bucks,30,52,0.366
+2003-04,NBA,Milwaukee Bucks,41,41,0.5
+2002-03,NBA,Milwaukee Bucks,42,40,0.512
+2001-02,NBA,Milwaukee Bucks,41,41,0.5
+2000-01,NBA,Milwaukee Bucks,52,30,0.634
+1999-00,NBA,Milwaukee Bucks,42,40,0.512
+1998-99,NBA,Milwaukee Bucks,28,22,0.56
+1997-98,NBA,Milwaukee Bucks,36,46,0.439
+1996-97,NBA,Milwaukee Bucks,33,49,0.402
+1995-96,NBA,Milwaukee Bucks,25,57,0.305
+1994-95,NBA,Milwaukee Bucks,34,48,0.415
+1993-94,NBA,Milwaukee Bucks,20,62,0.244
+1992-93,NBA,Milwaukee Bucks,28,54,0.341
+1991-92,NBA,Milwaukee Bucks,31,51,0.378
+1990-91,NBA,Milwaukee Bucks,48,34,0.585
+1989-90,NBA,Milwaukee Bucks,44,38,0.537
+1988-89,NBA,Milwaukee Bucks,49,33,0.598
+1987-88,NBA,Milwaukee Bucks,42,40,0.512
+1986-87,NBA,Milwaukee Bucks,50,32,0.61
+1985-86,NBA,Milwaukee Bucks,57,25,0.695
+1984-85,NBA,Milwaukee Bucks,59,23,0.72
+1983-84,NBA,Milwaukee Bucks,50,32,0.61
+1982-83,NBA,Milwaukee Bucks,51,31,0.622
+1981-82,NBA,Milwaukee Bucks,55,27,0.671
+1980-81,NBA,Milwaukee Bucks,60,22,0.732
+1979-80,NBA,Milwaukee Bucks,49,33,0.598
+1978-79,NBA,Milwaukee Bucks,38,44,0.463
+1977-78,NBA,Milwaukee Bucks,44,38,0.537
+1976-77,NBA,Milwaukee Bucks,30,52,0.366
+1975-76,NBA,Milwaukee Bucks,38,44,0.463
+1974-75,NBA,Milwaukee Bucks,38,44,0.463
+1973-74,NBA,Milwaukee Bucks,59,23,0.72
+1972-73,NBA,Milwaukee Bucks,60,22,0.732
+1971-72,NBA,Milwaukee Bucks,63,19,0.768
+1970-71,NBA,Milwaukee Bucks,66,16,0.805
+1969-70,NBA,Milwaukee Bucks,56,26,0.683
+1968-69,NBA,Milwaukee Bucks,27,55,0.329
+2016-17,NBA,Indiana Pacers,42,40,0.512
+2015-16,NBA,Indiana Pacers,45,37,0.549
+2014-15,NBA,Indiana Pacers,38,44,0.463
+2013-14,NBA,Indiana Pacers,56,26,0.683
+2012-13,NBA,Indiana Pacers,49,32,0.605
+2011-12,NBA,Indiana Pacers,42,24,0.636
+2010-11,NBA,Indiana Pacers,37,45,0.451
+2009-10,NBA,Indiana Pacers,32,50,0.39
+2008-09,NBA,Indiana Pacers,36,46,0.439
+2007-08,NBA,Indiana Pacers,36,46,0.439
+2006-07,NBA,Indiana Pacers,35,47,0.427
+2005-06,NBA,Indiana Pacers,41,41,0.5
+2004-05,NBA,Indiana Pacers,44,38,0.537
+2003-04,NBA,Indiana Pacers,61,21,0.744
+2002-03,NBA,Indiana Pacers,48,34,0.585
+2001-02,NBA,Indiana Pacers,42,40,0.512
+2000-01,NBA,Indiana Pacers,41,41,0.5
+1999-00,NBA,Indiana Pacers,56,26,0.683
+1998-99,NBA,Indiana Pacers,33,17,0.66
+1997-98,NBA,Indiana Pacers,58,24,0.707
+1996-97,NBA,Indiana Pacers,39,43,0.476
+1995-96,NBA,Indiana Pacers,52,30,0.634
+1994-95,NBA,Indiana Pacers,52,30,0.634
+1993-94,NBA,Indiana Pacers,47,35,0.573
+1992-93,NBA,Indiana Pacers,41,41,0.5
+1991-92,NBA,Indiana Pacers,40,42,0.488
+1990-91,NBA,Indiana Pacers,41,41,0.5
+1989-90,NBA,Indiana Pacers,42,40,0.512
+1988-89,NBA,Indiana Pacers,28,54,0.341
+1987-88,NBA,Indiana Pacers,38,44,0.463
+1986-87,NBA,Indiana Pacers,41,41,0.5
+1985-86,NBA,Indiana Pacers,26,56,0.317
+1984-85,NBA,Indiana Pacers,22,60,0.268
+1983-84,NBA,Indiana Pacers,26,56,0.317
+1982-83,NBA,Indiana Pacers,20,62,0.244
+1981-82,NBA,Indiana Pacers,35,47,0.427
+1980-81,NBA,Indiana Pacers,44,38,0.537
+1979-80,NBA,Indiana Pacers,37,45,0.451
+1978-79,NBA,Indiana Pacers,38,44,0.463
+1977-78,NBA,Indiana Pacers,31,51,0.378
+1976-77,NBA,Indiana Pacers,36,46,0.439
+2016-17,NBA,Chicago Bulls,41,41,0.5
+2015-16,NBA,Chicago Bulls,42,40,0.512
+2014-15,NBA,Chicago Bulls,50,32,0.61
+2013-14,NBA,Chicago Bulls,48,34,0.585
+2012-13,NBA,Chicago Bulls,45,37,0.549
+2011-12,NBA,Chicago Bulls,50,16,0.758
+2010-11,NBA,Chicago Bulls,62,20,0.756
+2009-10,NBA,Chicago Bulls,41,41,0.5
+2008-09,NBA,Chicago Bulls,41,41,0.5
+2007-08,NBA,Chicago Bulls,33,49,0.402
+2006-07,NBA,Chicago Bulls,49,33,0.598
+2005-06,NBA,Chicago Bulls,41,41,0.5
+2004-05,NBA,Chicago Bulls,47,35,0.573
+2003-04,NBA,Chicago Bulls,23,59,0.28
+2002-03,NBA,Chicago Bulls,30,52,0.366
+2001-02,NBA,Chicago Bulls,21,61,0.256
+2000-01,NBA,Chicago Bulls,15,67,0.183
+1999-00,NBA,Chicago Bulls,17,65,0.207
+1998-99,NBA,Chicago Bulls,13,37,0.26
+1997-98,NBA,Chicago Bulls,62,20,0.756
+1996-97,NBA,Chicago Bulls,69,13,0.841
+1995-96,NBA,Chicago Bulls,72,10,0.878
+1994-95,NBA,Chicago Bulls,47,35,0.573
+1993-94,NBA,Chicago Bulls,55,27,0.671
+1992-93,NBA,Chicago Bulls,57,25,0.695
+1991-92,NBA,Chicago Bulls,67,15,0.817
+1990-91,NBA,Chicago Bulls,61,21,0.744
+1989-90,NBA,Chicago Bulls,55,27,0.671
+1988-89,NBA,Chicago Bulls,47,35,0.573
+1987-88,NBA,Chicago Bulls,50,32,0.61
+1986-87,NBA,Chicago Bulls,40,42,0.488
+1985-86,NBA,Chicago Bulls,30,52,0.366
+1984-85,NBA,Chicago Bulls,38,44,0.463
+1983-84,NBA,Chicago Bulls,27,55,0.329
+1982-83,NBA,Chicago Bulls,28,54,0.341
+1981-82,NBA,Chicago Bulls,34,48,0.415
+1980-81,NBA,Chicago Bulls,45,37,0.549
+1979-80,NBA,Chicago Bulls,30,52,0.366
+1978-79,NBA,Chicago Bulls,31,51,0.378
+1977-78,NBA,Chicago Bulls,40,42,0.488
+1976-77,NBA,Chicago Bulls,44,38,0.537
+1975-76,NBA,Chicago Bulls,24,58,0.293
+1974-75,NBA,Chicago Bulls,47,35,0.573
+1973-74,NBA,Chicago Bulls,54,28,0.659
+1972-73,NBA,Chicago Bulls,51,31,0.622
+1971-72,NBA,Chicago Bulls,57,25,0.695
+1970-71,NBA,Chicago Bulls,51,31,0.622
+1969-70,NBA,Chicago Bulls,39,43,0.476
+1968-69,NBA,Chicago Bulls,33,49,0.402
+1967-68,NBA,Chicago Bulls,29,53,0.354
+1966-67,NBA,Chicago Bulls,33,48,0.407
+2016-17,NBA,Golden State Warriors,67,15,0.817
+2015-16,NBA,Golden State Warriors,73,9,0.89
+2014-15,NBA,Golden State Warriors,67,15,0.817
+2013-14,NBA,Golden State Warriors,51,31,0.622
+2012-13,NBA,Golden State Warriors,47,35,0.573
+2011-12,NBA,Golden State Warriors,23,43,0.348
+2010-11,NBA,Golden State Warriors,36,46,0.439
+2009-10,NBA,Golden State Warriors,26,56,0.317
+2008-09,NBA,Golden State Warriors,29,53,0.354
+2007-08,NBA,Golden State Warriors,48,34,0.585
+2006-07,NBA,Golden State Warriors,42,40,0.512
+2005-06,NBA,Golden State Warriors,34,48,0.415
+2004-05,NBA,Golden State Warriors,34,48,0.415
+2003-04,NBA,Golden State Warriors,37,45,0.451
+2002-03,NBA,Golden State Warriors,38,44,0.463
+2001-02,NBA,Golden State Warriors,21,61,0.256
+2000-01,NBA,Golden State Warriors,17,65,0.207
+1999-00,NBA,Golden State Warriors,19,63,0.232
+1998-99,NBA,Golden State Warriors,21,29,0.42
+1997-98,NBA,Golden State Warriors,19,63,0.232
+1996-97,NBA,Golden State Warriors,30,52,0.366
+1995-96,NBA,Golden State Warriors,36,46,0.439
+1994-95,NBA,Golden State Warriors,26,56,0.317
+1993-94,NBA,Golden State Warriors,50,32,0.61
+1992-93,NBA,Golden State Warriors,34,48,0.415
+1991-92,NBA,Golden State Warriors,55,27,0.671
+1990-91,NBA,Golden State Warriors,44,38,0.537
+1989-90,NBA,Golden State Warriors,37,45,0.451
+1988-89,NBA,Golden State Warriors,43,39,0.524
+1987-88,NBA,Golden State Warriors,20,62,0.244
+1986-87,NBA,Golden State Warriors,42,40,0.512
+1985-86,NBA,Golden State Warriors,30,52,0.366
+1984-85,NBA,Golden State Warriors,22,60,0.268
+1983-84,NBA,Golden State Warriors,37,45,0.451
+1982-83,NBA,Golden State Warriors,30,52,0.366
+1981-82,NBA,Golden State Warriors,45,37,0.549
+1980-81,NBA,Golden State Warriors,39,43,0.476
+1979-80,NBA,Golden State Warriors,24,58,0.293
+1978-79,NBA,Golden State Warriors,38,44,0.463
+1977-78,NBA,Golden State Warriors,43,39,0.524
+1976-77,NBA,Golden State Warriors,46,36,0.561
+1975-76,NBA,Golden State Warriors,59,23,0.72
+1974-75,NBA,Golden State Warriors,48,34,0.585
+1973-74,NBA,Golden State Warriors,44,38,0.537
+1972-73,NBA,Golden State Warriors,47,35,0.573
+1971-72,NBA,Golden State Warriors,51,31,0.622
+1970-71,NBA,San Francisco Warriors,41,41,0.5
+1969-70,NBA,San Francisco Warriors,30,52,0.366
+1968-69,NBA,San Francisco Warriors,41,41,0.5
+1967-68,NBA,San Francisco Warriors,43,39,0.524
+1966-67,NBA,San Francisco Warriors,44,37,0.543
+1965-66,NBA,San Francisco Warriors,35,45,0.438
+1964-65,NBA,San Francisco Warriors,17,63,0.213
+1963-64,NBA,San Francisco Warriors,48,32,0.6
+1962-63,NBA,San Francisco Warriors,31,49,0.388
+1961-62,NBA,Philadelphia Warriors,49,31,0.613
+1960-61,NBA,Philadelphia Warriors,46,33,0.582
+1959-60,NBA,Philadelphia Warriors,49,26,0.653
+1958-59,NBA,Philadelphia Warriors,32,40,0.444
+1957-58,NBA,Philadelphia Warriors,37,35,0.514
+1956-57,NBA,Philadelphia Warriors,37,35,0.514
+1955-56,NBA,Philadelphia Warriors,45,27,0.625
+1954-55,NBA,Philadelphia Warriors,33,39,0.458
+1953-54,NBA,Philadelphia Warriors,29,43,0.403
+1952-53,NBA,Philadelphia Warriors,12,57,0.174
+1951-52,NBA,Philadelphia Warriors,33,33,0.5
+1950-51,NBA,Philadelphia Warriors,40,26,0.606
+1949-50,NBA,Philadelphia Warriors,26,42,0.382
+2016-17,NBA,Los Angeles Clippers,51,31,0.622
+2015-16,NBA,Los Angeles Clippers,53,29,0.646
+2014-15,NBA,Los Angeles Clippers,56,26,0.683
+2013-14,NBA,Los Angeles Clippers,57,25,0.695
+2012-13,NBA,Los Angeles Clippers,56,26,0.683
+2011-12,NBA,Los Angeles Clippers,40,26,0.606
+2010-11,NBA,Los Angeles Clippers,32,50,0.39
+2009-10,NBA,Los Angeles Clippers,29,53,0.354
+2008-09,NBA,Los Angeles Clippers,19,63,0.232
+2007-08,NBA,Los Angeles Clippers,23,59,0.28
+2006-07,NBA,Los Angeles Clippers,40,42,0.488
+2005-06,NBA,Los Angeles Clippers,47,35,0.573
+2004-05,NBA,Los Angeles Clippers,37,45,0.451
+2003-04,NBA,Los Angeles Clippers,28,54,0.341
+2002-03,NBA,Los Angeles Clippers,27,55,0.329
+2001-02,NBA,Los Angeles Clippers,39,43,0.476
+2000-01,NBA,Los Angeles Clippers,31,51,0.378
+1999-00,NBA,Los Angeles Clippers,15,67,0.183
+1998-99,NBA,Los Angeles Clippers,9,41,0.18
+1997-98,NBA,Los Angeles Clippers,17,65,0.207
+1996-97,NBA,Los Angeles Clippers,36,46,0.439
+1995-96,NBA,Los Angeles Clippers,29,53,0.354
+1994-95,NBA,Los Angeles Clippers,17,65,0.207
+1993-94,NBA,Los Angeles Clippers,27,55,0.329
+1992-93,NBA,Los Angeles Clippers,41,41,0.5
+1991-92,NBA,Los Angeles Clippers,45,37,0.549
+1990-91,NBA,Los Angeles Clippers,31,51,0.378
+1989-90,NBA,Los Angeles Clippers,30,52,0.366
+1988-89,NBA,Los Angeles Clippers,21,61,0.256
+1987-88,NBA,Los Angeles Clippers,17,65,0.207
+1986-87,NBA,Los Angeles Clippers,12,70,0.146
+1985-86,NBA,Los Angeles Clippers,32,50,0.39
+1984-85,NBA,Los Angeles Clippers,31,51,0.378
+1983-84,NBA,San Diego Clippers,30,52,0.366
+1982-83,NBA,San Diego Clippers,25,57,0.305
+1981-82,NBA,San Diego Clippers,17,65,0.207
+1980-81,NBA,San Diego Clippers,36,46,0.439
+1979-80,NBA,San Diego Clippers,35,47,0.427
+1978-79,NBA,San Diego Clippers,43,39,0.524
+1977-78,NBA,Buffalo Braves,27,55,0.329
+1976-77,NBA,Buffalo Braves,30,52,0.366
+1975-76,NBA,Buffalo Braves,46,36,0.561
+1974-75,NBA,Buffalo Braves,49,33,0.598
+1973-74,NBA,Buffalo Braves,42,40,0.512
+1972-73,NBA,Buffalo Braves,21,61,0.256
+1971-72,NBA,Buffalo Braves,22,60,0.268
+1970-71,NBA,Buffalo Braves,22,60,0.268
+2016-17,NBA,Phoenix Suns,24,58,0.293
+2015-16,NBA,Phoenix Suns,23,59,0.28
+2014-15,NBA,Phoenix Suns,39,43,0.476
+2013-14,NBA,Phoenix Suns,48,34,0.585
+2012-13,NBA,Phoenix Suns,25,57,0.305
+2011-12,NBA,Phoenix Suns,33,33,0.5
+2010-11,NBA,Phoenix Suns,40,42,0.488
+2009-10,NBA,Phoenix Suns,54,28,0.659
+2008-09,NBA,Phoenix Suns,46,36,0.561
+2007-08,NBA,Phoenix Suns,55,27,0.671
+2006-07,NBA,Phoenix Suns,61,21,0.744
+2005-06,NBA,Phoenix Suns,54,28,0.659
+2004-05,NBA,Phoenix Suns,62,20,0.756
+2003-04,NBA,Phoenix Suns,29,53,0.354
+2002-03,NBA,Phoenix Suns,44,38,0.537
+2001-02,NBA,Phoenix Suns,36,46,0.439
+2000-01,NBA,Phoenix Suns,51,31,0.622
+1999-00,NBA,Phoenix Suns,53,29,0.646
+1998-99,NBA,Phoenix Suns,27,23,0.54
+1997-98,NBA,Phoenix Suns,56,26,0.683
+1996-97,NBA,Phoenix Suns,40,42,0.488
+1995-96,NBA,Phoenix Suns,41,41,0.5
+1994-95,NBA,Phoenix Suns,59,23,0.72
+1993-94,NBA,Phoenix Suns,56,26,0.683
+1992-93,NBA,Phoenix Suns,62,20,0.756
+1991-92,NBA,Phoenix Suns,53,29,0.646
+1990-91,NBA,Phoenix Suns,55,27,0.671
+1989-90,NBA,Phoenix Suns,54,28,0.659
+1988-89,NBA,Phoenix Suns,55,27,0.671
+1987-88,NBA,Phoenix Suns,28,54,0.341
+1986-87,NBA,Phoenix Suns,36,46,0.439
+1985-86,NBA,Phoenix Suns,32,50,0.39
+1984-85,NBA,Phoenix Suns,36,46,0.439
+1983-84,NBA,Phoenix Suns,41,41,0.5
+1982-83,NBA,Phoenix Suns,53,29,0.646
+1981-82,NBA,Phoenix Suns,46,36,0.561
+1980-81,NBA,Phoenix Suns,57,25,0.695
+1979-80,NBA,Phoenix Suns,55,27,0.671
+1978-79,NBA,Phoenix Suns,50,32,0.61
+1977-78,NBA,Phoenix Suns,49,33,0.598
+1976-77,NBA,Phoenix Suns,34,48,0.415
+1975-76,NBA,Phoenix Suns,42,40,0.512
+1974-75,NBA,Phoenix Suns,32,50,0.39
+1973-74,NBA,Phoenix Suns,30,52,0.366
+1972-73,NBA,Phoenix Suns,38,44,0.463
+1971-72,NBA,Phoenix Suns,49,33,0.598
+1970-71,NBA,Phoenix Suns,48,34,0.585
+1969-70,NBA,Phoenix Suns,39,43,0.476
+1968-69,NBA,Phoenix Suns,16,66,0.195
+2016-17,NBA,Sacramento Kings,32,50,0.39
+2015-16,NBA,Sacramento Kings,33,49,0.402
+2014-15,NBA,Sacramento Kings,29,53,0.354
+2013-14,NBA,Sacramento Kings,28,54,0.341
+2012-13,NBA,Sacramento Kings,28,54,0.341
+2011-12,NBA,Sacramento Kings,22,44,0.333
+2010-11,NBA,Sacramento Kings,24,58,0.293
+2009-10,NBA,Sacramento Kings,25,57,0.305
+2008-09,NBA,Sacramento Kings,17,65,0.207
+2007-08,NBA,Sacramento Kings,38,44,0.463
+2006-07,NBA,Sacramento Kings,33,49,0.402
+2005-06,NBA,Sacramento Kings,44,38,0.537
+2004-05,NBA,Sacramento Kings,50,32,0.61
+2003-04,NBA,Sacramento Kings,55,27,0.671
+2002-03,NBA,Sacramento Kings,59,23,0.72
+2001-02,NBA,Sacramento Kings,61,21,0.744
+2000-01,NBA,Sacramento Kings,55,27,0.671
+1999-00,NBA,Sacramento Kings,44,38,0.537
+1998-99,NBA,Sacramento Kings,27,23,0.54
+1997-98,NBA,Sacramento Kings,27,55,0.329
+1996-97,NBA,Sacramento Kings,34,48,0.415
+1995-96,NBA,Sacramento Kings,39,43,0.476
+1994-95,NBA,Sacramento Kings,39,43,0.476
+1993-94,NBA,Sacramento Kings,28,54,0.341
+1992-93,NBA,Sacramento Kings,25,57,0.305
+1991-92,NBA,Sacramento Kings,29,53,0.354
+1990-91,NBA,Sacramento Kings,25,57,0.305
+1989-90,NBA,Sacramento Kings,23,59,0.28
+1988-89,NBA,Sacramento Kings,27,55,0.329
+1987-88,NBA,Sacramento Kings,24,58,0.293
+1986-87,NBA,Sacramento Kings,29,53,0.354
+1985-86,NBA,Sacramento Kings,37,45,0.451
+1984-85,NBA,Kansas City Kings,31,51,0.378
+1983-84,NBA,Kansas City Kings,38,44,0.463
+1982-83,NBA,Kansas City Kings,45,37,0.549
+1981-82,NBA,Kansas City Kings,30,52,0.366
+1980-81,NBA,Kansas City Kings,40,42,0.488
+1979-80,NBA,Kansas City Kings,47,35,0.573
+1978-79,NBA,Kansas City Kings,48,34,0.585
+1977-78,NBA,Kansas City Kings,31,51,0.378
+1976-77,NBA,Kansas City Kings,40,42,0.488
+1975-76,NBA,Kansas City Kings,31,51,0.378
+1974-75,NBA,Kansas City-Omaha Kings,44,38,0.537
+1973-74,NBA,Kansas City-Omaha Kings,33,49,0.402
+1972-73,NBA,Kansas City-Omaha Kings,36,46,0.439
+1971-72,NBA,Cincinnati Royals,30,52,0.366
+1970-71,NBA,Cincinnati Royals,33,49,0.402
+1969-70,NBA,Cincinnati Royals,36,46,0.439
+1968-69,NBA,Cincinnati Royals,41,41,0.5
+1967-68,NBA,Cincinnati Royals,39,43,0.476
+1966-67,NBA,Cincinnati Royals,39,42,0.481
+1965-66,NBA,Cincinnati Royals,45,35,0.563
+1964-65,NBA,Cincinnati Royals,48,32,0.6
+1963-64,NBA,Cincinnati Royals,55,25,0.688
+1962-63,NBA,Cincinnati Royals,42,38,0.525
+1961-62,NBA,Cincinnati Royals,43,37,0.538
+1960-61,NBA,Cincinnati Royals,33,46,0.418
+1959-60,NBA,Cincinnati Royals,19,56,0.253
+1958-59,NBA,Cincinnati Royals,19,53,0.264
+1957-58,NBA,Cincinnati Royals,33,39,0.458
+1956-57,NBA,Rochester Royals,31,41,0.431
+1955-56,NBA,Rochester Royals,31,41,0.431
+1954-55,NBA,Rochester Royals,29,43,0.403
+1953-54,NBA,Rochester Royals,44,28,0.611
+1952-53,NBA,Rochester Royals,44,26,0.629
+1951-52,NBA,Rochester Royals,41,25,0.621
+1950-51,NBA,Rochester Royals,41,27,0.603
+1949-50,NBA,Rochester Royals,51,17,0.75
+2016-17,NBA,Los Angeles Lakers,26,56,0.317
+2015-16,NBA,Los Angeles Lakers,17,65,0.207
+2014-15,NBA,Los Angeles Lakers,21,61,0.256
+2013-14,NBA,Los Angeles Lakers,27,55,0.329
+2012-13,NBA,Los Angeles Lakers,45,37,0.549
+2011-12,NBA,Los Angeles Lakers,41,25,0.621
+2010-11,NBA,Los Angeles Lakers,57,25,0.695
+2009-10,NBA,Los Angeles Lakers,57,25,0.695
+2008-09,NBA,Los Angeles Lakers,65,17,0.793
+2007-08,NBA,Los Angeles Lakers,57,25,0.695
+2006-07,NBA,Los Angeles Lakers,42,40,0.512
+2005-06,NBA,Los Angeles Lakers,45,37,0.549
+2004-05,NBA,Los Angeles Lakers,34,48,0.415
+2003-04,NBA,Los Angeles Lakers,56,26,0.683
+2002-03,NBA,Los Angeles Lakers,50,32,0.61
+2001-02,NBA,Los Angeles Lakers,58,24,0.707
+2000-01,NBA,Los Angeles Lakers,56,26,0.683
+1999-00,NBA,Los Angeles Lakers,67,15,0.817
+1998-99,NBA,Los Angeles Lakers,31,19,0.62
+1997-98,NBA,Los Angeles Lakers,61,21,0.744
+1996-97,NBA,Los Angeles Lakers,56,26,0.683
+1995-96,NBA,Los Angeles Lakers,53,29,0.646
+1994-95,NBA,Los Angeles Lakers,48,34,0.585
+1993-94,NBA,Los Angeles Lakers,33,49,0.402
+1992-93,NBA,Los Angeles Lakers,39,43,0.476
+1991-92,NBA,Los Angeles Lakers,43,39,0.524
+1990-91,NBA,Los Angeles Lakers,58,24,0.707
+1989-90,NBA,Los Angeles Lakers,63,19,0.768
+1988-89,NBA,Los Angeles Lakers,57,25,0.695
+1987-88,NBA,Los Angeles Lakers,62,20,0.756
+1986-87,NBA,Los Angeles Lakers,65,17,0.793
+1985-86,NBA,Los Angeles Lakers,62,20,0.756
+1984-85,NBA,Los Angeles Lakers,62,20,0.756
+1983-84,NBA,Los Angeles Lakers,54,28,0.659
+1982-83,NBA,Los Angeles Lakers,58,24,0.707
+1981-82,NBA,Los Angeles Lakers,57,25,0.695
+1980-81,NBA,Los Angeles Lakers,54,28,0.659
+1979-80,NBA,Los Angeles Lakers,60,22,0.732
+1978-79,NBA,Los Angeles Lakers,47,35,0.573
+1977-78,NBA,Los Angeles Lakers,45,37,0.549
+1976-77,NBA,Los Angeles Lakers,53,29,0.646
+1975-76,NBA,Los Angeles Lakers,40,42,0.488
+1974-75,NBA,Los Angeles Lakers,30,52,0.366
+1973-74,NBA,Los Angeles Lakers,47,35,0.573
+1972-73,NBA,Los Angeles Lakers,60,22,0.732
+1971-72,NBA,Los Angeles Lakers,69,13,0.841
+1970-71,NBA,Los Angeles Lakers,48,34,0.585
+1969-70,NBA,Los Angeles Lakers,46,36,0.561
+1968-69,NBA,Los Angeles Lakers,55,27,0.671
+1967-68,NBA,Los Angeles Lakers,52,30,0.634
+1966-67,NBA,Los Angeles Lakers,36,45,0.444
+1965-66,NBA,Los Angeles Lakers,45,35,0.563
+1964-65,NBA,Los Angeles Lakers,49,31,0.613
+1963-64,NBA,Los Angeles Lakers,42,38,0.525
+1962-63,NBA,Los Angeles Lakers,53,27,0.663
+1961-62,NBA,Los Angeles Lakers,54,26,0.675
+1960-61,NBA,Los Angeles Lakers,36,43,0.456
+1959-60,NBA,Minneapolis Lakers,25,50,0.333
+1958-59,NBA,Minneapolis Lakers,33,39,0.458
+1957-58,NBA,Minneapolis Lakers,19,53,0.264
+1956-57,NBA,Minneapolis Lakers,34,38,0.472
+1955-56,NBA,Minneapolis Lakers,33,39,0.458
+1954-55,NBA,Minneapolis Lakers,40,32,0.556
+1953-54,NBA,Minneapolis Lakers,46,26,0.639
+1952-53,NBA,Minneapolis Lakers,48,22,0.686
+1951-52,NBA,Minneapolis Lakers,40,26,0.606
+1950-51,NBA,Minneapolis Lakers,44,24,0.647
+1949-50,NBA,Minneapolis Lakers,51,17,0.75
+2016-17,NBA,Washington Wizards,49,33,0.598
+2015-16,NBA,Washington Wizards,41,41,0.5
+2014-15,NBA,Washington Wizards,46,36,0.561
+2013-14,NBA,Washington Wizards,44,38,0.537
+2012-13,NBA,Washington Wizards,29,53,0.354
+2011-12,NBA,Washington Wizards,20,46,0.303
+2010-11,NBA,Washington Wizards,23,59,0.28
+2009-10,NBA,Washington Wizards,26,56,0.317
+2008-09,NBA,Washington Wizards,19,63,0.232
+2007-08,NBA,Washington Wizards,43,39,0.524
+2006-07,NBA,Washington Wizards,41,41,0.5
+2005-06,NBA,Washington Wizards,42,40,0.512
+2004-05,NBA,Washington Wizards,45,37,0.549
+2003-04,NBA,Washington Wizards,25,57,0.305
+2002-03,NBA,Washington Wizards,37,45,0.451
+2001-02,NBA,Washington Wizards,37,45,0.451
+2000-01,NBA,Washington Wizards,19,63,0.232
+1999-00,NBA,Washington Wizards,29,53,0.354
+1998-99,NBA,Washington Wizards,18,32,0.36
+1997-98,NBA,Washington Wizards,42,40,0.512
+1996-97,NBA,Washington Bullets,44,38,0.537
+1995-96,NBA,Washington Bullets,39,43,0.476
+1994-95,NBA,Washington Bullets,21,61,0.256
+1993-94,NBA,Washington Bullets,24,58,0.293
+1992-93,NBA,Washington Bullets,22,60,0.268
+1991-92,NBA,Washington Bullets,25,57,0.305
+1990-91,NBA,Washington Bullets,30,52,0.366
+1989-90,NBA,Washington Bullets,31,51,0.378
+1988-89,NBA,Washington Bullets,40,42,0.488
+1987-88,NBA,Washington Bullets,38,44,0.463
+1986-87,NBA,Washington Bullets,42,40,0.512
+1985-86,NBA,Washington Bullets,39,43,0.476
+1984-85,NBA,Washington Bullets,40,42,0.488
+1983-84,NBA,Washington Bullets,35,47,0.427
+1982-83,NBA,Washington Bullets,42,40,0.512
+1981-82,NBA,Washington Bullets,43,39,0.524
+1980-81,NBA,Washington Bullets,39,43,0.476
+1979-80,NBA,Washington Bullets,39,43,0.476
+1978-79,NBA,Washington Bullets,54,28,0.659
+1977-78,NBA,Washington Bullets,44,38,0.537
+1976-77,NBA,Washington Bullets,48,34,0.585
+1975-76,NBA,Washington Bullets,48,34,0.585
+1974-75,NBA,Washington Bullets,60,22,0.732
+1973-74,NBA,Capital Bullets,47,35,0.573
+1972-73,NBA,Baltimore Bullets,52,30,0.634
+1971-72,NBA,Baltimore Bullets,38,44,0.463
+1970-71,NBA,Baltimore Bullets,42,40,0.512
+1969-70,NBA,Baltimore Bullets,50,32,0.61
+1968-69,NBA,Baltimore Bullets,57,25,0.695
+1967-68,NBA,Baltimore Bullets,36,46,0.439
+1966-67,NBA,Baltimore Bullets,20,61,0.247
+1965-66,NBA,Baltimore Bullets,38,42,0.475
+1964-65,NBA,Baltimore Bullets,37,43,0.463
+1963-64,NBA,Baltimore Bullets,31,49,0.388
+1962-63,NBA,Chicago Zephyrs,25,55,0.313
+1961-62,NBA,Chicago Packers,18,62,0.225
+2016-17,NBA,Miami Heat,41,41,0.5
+2015-16,NBA,Miami Heat,48,34,0.585
+2014-15,NBA,Miami Heat,37,45,0.451
+2013-14,NBA,Miami Heat,54,28,0.659
+2012-13,NBA,Miami Heat,66,16,0.805
+2011-12,NBA,Miami Heat,46,20,0.697
+2010-11,NBA,Miami Heat,58,24,0.707
+2009-10,NBA,Miami Heat,47,35,0.573
+2008-09,NBA,Miami Heat,43,39,0.524
+2007-08,NBA,Miami Heat,15,67,0.183
+2006-07,NBA,Miami Heat,44,38,0.537
+2005-06,NBA,Miami Heat,52,30,0.634
+2004-05,NBA,Miami Heat,59,23,0.72
+2003-04,NBA,Miami Heat,42,40,0.512
+2002-03,NBA,Miami Heat,25,57,0.305
+2001-02,NBA,Miami Heat,36,46,0.439
+2000-01,NBA,Miami Heat,50,32,0.61
+1999-00,NBA,Miami Heat,52,30,0.634
+1998-99,NBA,Miami Heat,33,17,0.66
+1997-98,NBA,Miami Heat,55,27,0.671
+1996-97,NBA,Miami Heat,61,21,0.744
+1995-96,NBA,Miami Heat,42,40,0.512
+1994-95,NBA,Miami Heat,32,50,0.39
+1993-94,NBA,Miami Heat,42,40,0.512
+1992-93,NBA,Miami Heat,36,46,0.439
+1991-92,NBA,Miami Heat,38,44,0.463
+1990-91,NBA,Miami Heat,24,58,0.293
+1989-90,NBA,Miami Heat,18,64,0.22
+1988-89,NBA,Miami Heat,15,67,0.183
+2016-17,NBA,Charlotte Hornets,36,46,0.439
+2015-16,NBA,Charlotte Hornets,48,34,0.585
+2014-15,NBA,Charlotte Hornets,33,49,0.402
+2013-14,NBA,Charlotte Bobcats,43,39,0.524
+2012-13,NBA,Charlotte Bobcats,21,61,0.256
+2011-12,NBA,Charlotte Bobcats,7,59,0.106
+2010-11,NBA,Charlotte Bobcats,34,48,0.415
+2009-10,NBA,Charlotte Bobcats,44,38,0.537
+2008-09,NBA,Charlotte Bobcats,35,47,0.427
+2007-08,NBA,Charlotte Bobcats,32,50,0.39
+2006-07,NBA,Charlotte Bobcats,33,49,0.402
+2005-06,NBA,Charlotte Bobcats,26,56,0.317
+2004-05,NBA,Charlotte Bobcats,18,64,0.22
+2001-02,NBA,Charlotte Hornets,44,38,0.537
+2000-01,NBA,Charlotte Hornets,46,36,0.561
+1999-00,NBA,Charlotte Hornets,49,33,0.598
+1998-99,NBA,Charlotte Hornets,26,24,0.52
+1997-98,NBA,Charlotte Hornets,51,31,0.622
+1996-97,NBA,Charlotte Hornets,54,28,0.659
+1995-96,NBA,Charlotte Hornets,41,41,0.5
+1994-95,NBA,Charlotte Hornets,50,32,0.61
+1993-94,NBA,Charlotte Hornets,41,41,0.5
+1992-93,NBA,Charlotte Hornets,44,38,0.537
+1991-92,NBA,Charlotte Hornets,31,51,0.378
+1990-91,NBA,Charlotte Hornets,26,56,0.317
+1989-90,NBA,Charlotte Hornets,19,63,0.232
+1988-89,NBA,Charlotte Hornets,20,62,0.244
+2016-17,NBA,Orlando Magic,29,53,0.354
+2015-16,NBA,Orlando Magic,35,47,0.427
+2014-15,NBA,Orlando Magic,25,57,0.305
+2013-14,NBA,Orlando Magic,23,59,0.28
+2012-13,NBA,Orlando Magic,20,62,0.244
+2011-12,NBA,Orlando Magic,37,29,0.561
+2010-11,NBA,Orlando Magic,52,30,0.634
+2009-10,NBA,Orlando Magic,59,23,0.72
+2008-09,NBA,Orlando Magic,59,23,0.72
+2007-08,NBA,Orlando Magic,52,30,0.634
+2006-07,NBA,Orlando Magic,40,42,0.488
+2005-06,NBA,Orlando Magic,36,46,0.439
+2004-05,NBA,Orlando Magic,36,46,0.439
+2003-04,NBA,Orlando Magic,21,61,0.256
+2002-03,NBA,Orlando Magic,42,40,0.512
+2001-02,NBA,Orlando Magic,44,38,0.537
+2000-01,NBA,Orlando Magic,43,39,0.524
+1999-00,NBA,Orlando Magic,41,41,0.5
+1998-99,NBA,Orlando Magic,33,17,0.66
+1997-98,NBA,Orlando Magic,41,41,0.5
+1996-97,NBA,Orlando Magic,45,37,0.549
+1995-96,NBA,Orlando Magic,60,22,0.732
+1994-95,NBA,Orlando Magic,57,25,0.695
+1993-94,NBA,Orlando Magic,50,32,0.61
+1992-93,NBA,Orlando Magic,41,41,0.5
+1991-92,NBA,Orlando Magic,21,61,0.256
+1990-91,NBA,Orlando Magic,31,51,0.378
+1989-90,NBA,Orlando Magic,18,64,0.22
+2016-17,NBA,Atlanta Hawks,43,39,0.524
+2015-16,NBA,Atlanta Hawks,48,34,0.585
+2014-15,NBA,Atlanta Hawks,60,22,0.732
+2013-14,NBA,Atlanta Hawks,38,44,0.463
+2012-13,NBA,Atlanta Hawks,44,38,0.537
+2011-12,NBA,Atlanta Hawks,40,26,0.606
+2010-11,NBA,Atlanta Hawks,44,38,0.537
+2009-10,NBA,Atlanta Hawks,53,29,0.646
+2008-09,NBA,Atlanta Hawks,47,35,0.573
+2007-08,NBA,Atlanta Hawks,37,45,0.451
+2006-07,NBA,Atlanta Hawks,30,52,0.366
+2005-06,NBA,Atlanta Hawks,26,56,0.317
+2004-05,NBA,Atlanta Hawks,13,69,0.159
+2003-04,NBA,Atlanta Hawks,28,54,0.341
+2002-03,NBA,Atlanta Hawks,35,47,0.427
+2001-02,NBA,Atlanta Hawks,33,49,0.402
+2000-01,NBA,Atlanta Hawks,25,57,0.305
+1999-00,NBA,Atlanta Hawks,28,54,0.341
+1998-99,NBA,Atlanta Hawks,31,19,0.62
+1997-98,NBA,Atlanta Hawks,50,32,0.61
+1996-97,NBA,Atlanta Hawks,56,26,0.683
+1995-96,NBA,Atlanta Hawks,46,36,0.561
+1994-95,NBA,Atlanta Hawks,42,40,0.512
+1993-94,NBA,Atlanta Hawks,57,25,0.695
+1992-93,NBA,Atlanta Hawks,43,39,0.524
+1991-92,NBA,Atlanta Hawks,38,44,0.463
+1990-91,NBA,Atlanta Hawks,43,39,0.524
+1989-90,NBA,Atlanta Hawks,41,41,0.5
+1988-89,NBA,Atlanta Hawks,52,30,0.634
+1987-88,NBA,Atlanta Hawks,50,32,0.61
+1986-87,NBA,Atlanta Hawks,57,25,0.695
+1985-86,NBA,Atlanta Hawks,50,32,0.61
+1984-85,NBA,Atlanta Hawks,34,48,0.415
+1983-84,NBA,Atlanta Hawks,40,42,0.488
+1982-83,NBA,Atlanta Hawks,43,39,0.524
+1981-82,NBA,Atlanta Hawks,42,40,0.512
+1980-81,NBA,Atlanta Hawks,31,51,0.378
+1979-80,NBA,Atlanta Hawks,50,32,0.61
+1978-79,NBA,Atlanta Hawks,46,36,0.561
+1977-78,NBA,Atlanta Hawks,41,41,0.5
+1976-77,NBA,Atlanta Hawks,31,51,0.378
+1975-76,NBA,Atlanta Hawks,29,53,0.354
+1974-75,NBA,Atlanta Hawks,31,51,0.378
+1973-74,NBA,Atlanta Hawks,35,47,0.427
+1972-73,NBA,Atlanta Hawks,46,36,0.561
+1971-72,NBA,Atlanta Hawks,36,46,0.439
+1970-71,NBA,Atlanta Hawks,36,46,0.439
+1969-70,NBA,Atlanta Hawks,48,34,0.585
+1968-69,NBA,Atlanta Hawks,48,34,0.585
+1967-68,NBA,St. Louis Hawks,56,26,0.683
+1966-67,NBA,St. Louis Hawks,39,42,0.481
+1965-66,NBA,St. Louis Hawks,36,44,0.45
+1964-65,NBA,St. Louis Hawks,45,35,0.563
+1963-64,NBA,St. Louis Hawks,46,34,0.575
+1962-63,NBA,St. Louis Hawks,48,32,0.6
+1961-62,NBA,St. Louis Hawks,29,51,0.363
+1960-61,NBA,St. Louis Hawks,51,28,0.646
+1959-60,NBA,St. Louis Hawks,46,29,0.613
+1958-59,NBA,St. Louis Hawks,49,23,0.681
+1957-58,NBA,St. Louis Hawks,41,31,0.569
+1956-57,NBA,St. Louis Hawks,34,38,0.472
+1955-56,NBA,St. Louis Hawks,33,39,0.458
+1954-55,NBA,Milwaukee Hawks,26,46,0.361
+1953-54,NBA,Milwaukee Hawks,21,51,0.292
+1952-53,NBA,Milwaukee Hawks,27,44,0.38
+1951-52,NBA,Milwaukee Hawks,17,49,0.258
+1950-51,NBA,Tri-Cities Blackhawks,25,43,0.368
+1949-50,NBA,Tri-Cities Blackhawks,29,35,0.453
+2016-17,NBA,Houston Rockets,55,27,0.671
+2015-16,NBA,Houston Rockets,41,41,0.5
+2014-15,NBA,Houston Rockets,56,26,0.683
+2013-14,NBA,Houston Rockets,54,28,0.659
+2012-13,NBA,Houston Rockets,45,37,0.549
+2011-12,NBA,Houston Rockets,34,32,0.515
+2010-11,NBA,Houston Rockets,43,39,0.524
+2009-10,NBA,Houston Rockets,42,40,0.512
+2008-09,NBA,Houston Rockets,53,29,0.646
+2007-08,NBA,Houston Rockets,55,27,0.671
+2006-07,NBA,Houston Rockets,52,30,0.634
+2005-06,NBA,Houston Rockets,34,48,0.415
+2004-05,NBA,Houston Rockets,51,31,0.622
+2003-04,NBA,Houston Rockets,45,37,0.549
+2002-03,NBA,Houston Rockets,43,39,0.524
+2001-02,NBA,Houston Rockets,28,54,0.341
+2000-01,NBA,Houston Rockets,45,37,0.549
+1999-00,NBA,Houston Rockets,34,48,0.415
+1998-99,NBA,Houston Rockets,31,19,0.62
+1997-98,NBA,Houston Rockets,41,41,0.5
+1996-97,NBA,Houston Rockets,57,25,0.695
+1995-96,NBA,Houston Rockets,48,34,0.585
+1994-95,NBA,Houston Rockets,47,35,0.573
+1993-94,NBA,Houston Rockets,58,24,0.707
+1992-93,NBA,Houston Rockets,55,27,0.671
+1991-92,NBA,Houston Rockets,42,40,0.512
+1990-91,NBA,Houston Rockets,52,30,0.634
+1989-90,NBA,Houston Rockets,41,41,0.5
+1988-89,NBA,Houston Rockets,45,37,0.549
+1987-88,NBA,Houston Rockets,46,36,0.561
+1986-87,NBA,Houston Rockets,42,40,0.512
+1985-86,NBA,Houston Rockets,51,31,0.622
+1984-85,NBA,Houston Rockets,48,34,0.585
+1983-84,NBA,Houston Rockets,29,53,0.354
+1982-83,NBA,Houston Rockets,14,68,0.171
+1981-82,NBA,Houston Rockets,46,36,0.561
+1980-81,NBA,Houston Rockets,40,42,0.488
+1979-80,NBA,Houston Rockets,41,41,0.5
+1978-79,NBA,Houston Rockets,47,35,0.573
+1977-78,NBA,Houston Rockets,28,54,0.341
+1976-77,NBA,Houston Rockets,49,33,0.598
+1975-76,NBA,Houston Rockets,40,42,0.488
+1974-75,NBA,Houston Rockets,41,41,0.5
+1973-74,NBA,Houston Rockets,32,50,0.39
+1972-73,NBA,Houston Rockets,33,49,0.402
+1971-72,NBA,Houston Rockets,34,48,0.415
+1970-71,NBA,San Diego Rockets,40,42,0.488
+1969-70,NBA,San Diego Rockets,27,55,0.329
+1968-69,NBA,San Diego Rockets,37,45,0.451
+1967-68,NBA,San Diego Rockets,15,67,0.183
+2016-17,NBA,San Antonio Spurs,61,21,0.744
+2015-16,NBA,San Antonio Spurs,67,15,0.817
+2014-15,NBA,San Antonio Spurs,55,27,0.671
+2013-14,NBA,San Antonio Spurs,62,20,0.756
+2012-13,NBA,San Antonio Spurs,58,24,0.707
+2011-12,NBA,San Antonio Spurs,50,16,0.758
+2010-11,NBA,San Antonio Spurs,61,21,0.744
+2009-10,NBA,San Antonio Spurs,50,32,0.61
+2008-09,NBA,San Antonio Spurs,54,28,0.659
+2007-08,NBA,San Antonio Spurs,56,26,0.683
+2006-07,NBA,San Antonio Spurs,58,24,0.707
+2005-06,NBA,San Antonio Spurs,63,19,0.768
+2004-05,NBA,San Antonio Spurs,59,23,0.72
+2003-04,NBA,San Antonio Spurs,57,25,0.695
+2002-03,NBA,San Antonio Spurs,60,22,0.732
+2001-02,NBA,San Antonio Spurs,58,24,0.707
+2000-01,NBA,San Antonio Spurs,58,24,0.707
+1999-00,NBA,San Antonio Spurs,53,29,0.646
+1998-99,NBA,San Antonio Spurs,37,13,0.74
+1997-98,NBA,San Antonio Spurs,56,26,0.683
+1996-97,NBA,San Antonio Spurs,20,62,0.244
+1995-96,NBA,San Antonio Spurs,59,23,0.72
+1994-95,NBA,San Antonio Spurs,62,20,0.756
+1993-94,NBA,San Antonio Spurs,55,27,0.671
+1992-93,NBA,San Antonio Spurs,49,33,0.598
+1991-92,NBA,San Antonio Spurs,47,35,0.573
+1990-91,NBA,San Antonio Spurs,55,27,0.671
+1989-90,NBA,San Antonio Spurs,56,26,0.683
+1988-89,NBA,San Antonio Spurs,21,61,0.256
+1987-88,NBA,San Antonio Spurs,31,51,0.378
+1986-87,NBA,San Antonio Spurs,28,54,0.341
+1985-86,NBA,San Antonio Spurs,35,47,0.427
+1984-85,NBA,San Antonio Spurs,41,41,0.5
+1983-84,NBA,San Antonio Spurs,37,45,0.451
+1982-83,NBA,San Antonio Spurs,53,29,0.646
+1981-82,NBA,San Antonio Spurs,48,34,0.585
+1980-81,NBA,San Antonio Spurs,52,30,0.634
+1979-80,NBA,San Antonio Spurs,41,41,0.5
+1978-79,NBA,San Antonio Spurs,48,34,0.585
+1977-78,NBA,San Antonio Spurs,52,30,0.634
+1976-77,NBA,San Antonio Spurs,44,38,0.537
+2016-17,NBA,New Orleans Pelicans,34,48,0.415
+2015-16,NBA,New Orleans Pelicans,30,52,0.366
+2014-15,NBA,New Orleans Pelicans,45,37,0.549
+2013-14,NBA,New Orleans Pelicans,34,48,0.415
+2012-13,NBA,New Orleans Hornets,27,55,0.329
+2011-12,NBA,New Orleans Hornets,21,45,0.318
+2010-11,NBA,New Orleans Hornets,46,36,0.561
+2009-10,NBA,New Orleans Hornets,37,45,0.451
+2008-09,NBA,New Orleans Hornets,49,33,0.598
+2007-08,NBA,New Orleans Hornets,56,26,0.683
+2006-07,NBA,New Orleans/Oklahoma City Hornets,39,43,0.476
+2005-06,NBA,New Orleans/Oklahoma City Hornets,38,44,0.463
+2004-05,NBA,New Orleans Hornets,18,64,0.22
+2003-04,NBA,New Orleans Hornets,41,41,0.5
+2002-03,NBA,New Orleans Hornets,47,35,0.573
+2016-17,NBA,Dallas Mavericks,33,49,0.402
+2015-16,NBA,Dallas Mavericks,42,40,0.512
+2014-15,NBA,Dallas Mavericks,50,32,0.61
+2013-14,NBA,Dallas Mavericks,49,33,0.598
+2012-13,NBA,Dallas Mavericks,41,41,0.5
+2011-12,NBA,Dallas Mavericks,36,30,0.545
+2010-11,NBA,Dallas Mavericks,57,25,0.695
+2009-10,NBA,Dallas Mavericks,55,27,0.671
+2008-09,NBA,Dallas Mavericks,50,32,0.61
+2007-08,NBA,Dallas Mavericks,51,31,0.622
+2006-07,NBA,Dallas Mavericks,67,15,0.817
+2005-06,NBA,Dallas Mavericks,60,22,0.732
+2004-05,NBA,Dallas Mavericks,58,24,0.707
+2003-04,NBA,Dallas Mavericks,52,30,0.634
+2002-03,NBA,Dallas Mavericks,60,22,0.732
+2001-02,NBA,Dallas Mavericks,57,25,0.695
+2000-01,NBA,Dallas Mavericks,53,29,0.646
+1999-00,NBA,Dallas Mavericks,40,42,0.488
+1998-99,NBA,Dallas Mavericks,19,31,0.38
+1997-98,NBA,Dallas Mavericks,20,62,0.244
+1996-97,NBA,Dallas Mavericks,24,58,0.293
+1995-96,NBA,Dallas Mavericks,26,56,0.317
+1994-95,NBA,Dallas Mavericks,36,46,0.439
+1993-94,NBA,Dallas Mavericks,13,69,0.159
+1992-93,NBA,Dallas Mavericks,11,71,0.134
+1991-92,NBA,Dallas Mavericks,22,60,0.268
+1990-91,NBA,Dallas Mavericks,28,54,0.341
+1989-90,NBA,Dallas Mavericks,47,35,0.573
+1988-89,NBA,Dallas Mavericks,38,44,0.463
+1987-88,NBA,Dallas Mavericks,53,29,0.646
+1986-87,NBA,Dallas Mavericks,55,27,0.671
+1985-86,NBA,Dallas Mavericks,44,38,0.537
+1984-85,NBA,Dallas Mavericks,44,38,0.537
+1983-84,NBA,Dallas Mavericks,43,39,0.524
+1982-83,NBA,Dallas Mavericks,38,44,0.463
+1981-82,NBA,Dallas Mavericks,28,54,0.341
+1980-81,NBA,Dallas Mavericks,15,67,0.183
+2016-17,NBA,Memphis Grizzlies,43,39,0.524
+2015-16,NBA,Memphis Grizzlies,42,40,0.512
+2014-15,NBA,Memphis Grizzlies,55,27,0.671
+2013-14,NBA,Memphis Grizzlies,50,32,0.61
+2012-13,NBA,Memphis Grizzlies,56,26,0.683
+2011-12,NBA,Memphis Grizzlies,41,25,0.621
+2010-11,NBA,Memphis Grizzlies,46,36,0.561
+2009-10,NBA,Memphis Grizzlies,40,42,0.488
+2008-09,NBA,Memphis Grizzlies,24,58,0.293
+2007-08,NBA,Memphis Grizzlies,22,60,0.268
+2006-07,NBA,Memphis Grizzlies,22,60,0.268
+2005-06,NBA,Memphis Grizzlies,49,33,0.598
+2004-05,NBA,Memphis Grizzlies,45,37,0.549
+2003-04,NBA,Memphis Grizzlies,50,32,0.61
+2002-03,NBA,Memphis Grizzlies,28,54,0.341
+2001-02,NBA,Memphis Grizzlies,23,59,0.28
+2000-01,NBA,Vancouver Grizzlies,23,59,0.28
+1999-00,NBA,Vancouver Grizzlies,22,60,0.268
+1998-99,NBA,Vancouver Grizzlies,8,42,0.16
+1997-98,NBA,Vancouver Grizzlies,19,63,0.232
+1996-97,NBA,Vancouver Grizzlies,14,68,0.171
+1995-96,NBA,Vancouver Grizzlies,15,67,0.183
