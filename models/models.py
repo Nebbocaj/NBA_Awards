@@ -283,69 +283,21 @@ total_S = []
 y1 = 2000
 y2 = 2023
 for y in range(y1, y2):
-    pred, act = get_predictions("MIP", y, size)
+    pred, act = get_predictions("MVP", y, size)
         
-    # for o in range(size):
-    #     print(pred[o], act[o]) 
+    for o in range(size):
+        print(pred[o], act[o]) 
         
     pred_vals = [pred[i][0] for i in range(size)]
     act_vals = [act[i][0] for i in range(size)]
     
     J = jaccard(pred_vals, act_vals)
     S = score(pred_vals[:3], act_vals[:3])
-    # print(J, S)
+    print(J, S)
     
     total_J.append(J)
     total_S.append(round(S, 2))
     
 print("Average Jaccard: ", sum(total_J) / len(total_J), np.std(total_J),)
 print("Average Score: ", sum(total_S) / len(total_S), np.std(total_S), total_S)
-
-
-#%%
-
-# import matplotlib.pyplot as plt
-
-# # Data points for four different datasets
-# dataset1 = [0.0, 0.55, 0.33, 0.24, 0.0, 0.53, 0.24, 0.33, 0.5, 0.5, 0.24, 0.5, 0.37, 0.0, 0.24, 0.33, 0.6, 0.6, 0.5, 0.5, 0.33, 0.5, 0.24]
-# dataset2 = [0.5, 0.47, 0.33, 0.55, 0.5, 0.62, 0.55, 0.6, 0.37, 0.5, 0.24, 0.0, 0.37, 0.37, 0.5, 0.24, 0.33, 0.5, 0.0, 0.55, 0.0, 0.6, 0.53]
-# dataset3 = [0.62, 0.6, 0.62, 0.55, 0.6, 0.5, 0.5, 0.5, 0.5, 0.62, 0.55, 0.69, 0.62, 0.62, 0.62, 0.37, 0.6, 0.62, 0.62, 0.33, 0.41, 0.6, 0.62]
-# dataset4 = [0.53, 0.33, 0.6, 0.53, 0.62, 0.53, 0.6, 0.33, 0.62, 0.6, 0.6, 0.55, 0.37, 0.62, 0.69, 0.69, 0.29, 0.17, 0.24, 0.37, 0.6, 0.6, 0.69]
-
-# # Combine the datasets into a list
-# datasets = [dataset1, dataset2, dataset3, dataset4]
-
-# # Colors for each dataset
-# colors = ['#FF8C9B', '#5CCF5C', '#B9B5FF', '#FFA07A']
-
-
-# # Create a figure and axis
-# fig, ax = plt.subplots()
-
-# # Create the box plot with different colors
-# box_plot = ax.boxplot(datasets, patch_artist=True)
-
-
-
-# # Set colors for each box in the box plot
-# for patch, color in zip(box_plot['boxes'], colors):
-#     patch.set_facecolor(color)
-    
-# for median in box_plot['medians']:
-#     median.set_color('black')
-
-# # Set the x-axis labels
-# ax.set_xticklabels(['RotY', 'MVP', 'MIP', 'DPY'])
-
-# # Set the title and labels
-# ax.set_title('Distribution of Scores')
-# ax.set_ylabel('Score')
-
-# plt.savefig('boxplot.png', bbox_inches='tight')
-
-# # Show the box plot
-# plt.show()
-
-
-
 
